@@ -1,0 +1,1 @@
+CREATE DATABASE learning_spring_data_jpa;
